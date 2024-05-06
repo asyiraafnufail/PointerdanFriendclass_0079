@@ -20,5 +20,6 @@ int main(){
     mahasiswa *pMhs = &mhs; //pointer dereference
     pMhs->nim = 3; //arrow operator
     pMhs->showNim();
-    
+
+    return 0;
 }
